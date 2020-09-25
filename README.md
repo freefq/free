@@ -1,13 +1,18 @@
 # free  
-更新时间 2020-09-25 20:00:02  
+更新时间 2020-09-25 22:34:44  
 免费科学上网账号，免费翻墙账号，免费ssr，免费翻墙  
 所有资源都爬取自网络免费资源，请勿用于非法用途  
 |  工具  | Android  | Win  |  
 |  ----  | ----   | ----  |  
 | [v2ray](#v2ray)  | [v2rayNG](https://github.com/2dust/v2rayNG/releases/download/1.2.12/v2rayNG_1.2.12.apk) | [v2rayN](https://github.com/2dust/v2rayN/releases/download/3.19/v2rayN-Core.zip) |  
 | [shadowsocksR](#SSR)  |[shadowsocksr-android](https://github.com/shadowsocksrr/shadowsocksr-android/releases/download/3.5.4/shadowsocksr-android-3.5.4.apk) | [shadowsocksr-windows](https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases/download/4.7.0/ShadowsocksR-4.7.0-win.7z) |  
-### 使用方法  
+### v2rayN翻墙软件使用教程：[点击查看](https://github.com/freefq/tutorials)  
+### 节点导入方法  
 CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN/SSR客户端图标，左键点击从剪贴板批量导入URL，即可一键导入所有v2ray/SSR节点  
+### SSR节点订阅  
+- `https://raw.githubusercontent.com/freefq/free/master/ssr`  
+### v2ray节点订阅  
+- `https://raw.githubusercontent.com/freefq/free/master/v2`  
 ## SSR  
 ssr://MTA0LjIzNy4xNTQuMjA0OjgwOTk6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOlpVbFhNRVJ1YXpZNU5EVTBaVFp1VTNkMWMzQjJPVVJ0VXpJd01YUlJNRVEvP29iZnNwYXJhbT0mcHJvdG9wYXJhbT0mcmVtYXJrcz01NzZPNVp1OTVZcWc1WWlwNTZhUDViQzg1THFhNWJlZTZMUzU2WWVNNkpLWlRHbHViMlJsNXBXdzVvMnU1TGl0NWItRE1qQTAmZ3JvdXA9WjJsMGFIVmlMbU52YlM5bWNtVmxabkU  
 ssr://MTM5LjE2Mi4xNS40NTo4MDk5Om9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpaVWxYTUVSdWF6WTVORFUwWlRadVUzZDFjM0IyT1VSdFV6SXdNWFJSTUVRLz9vYmZzcGFyYW09JnByb3RvcGFyYW09JnJlbWFya3M9NXBhdzVZcWc1WjJoVEdsdWIyUmw1cFd3NW8ydTVMaXQ1Yi1ETkRVJmdyb3VwPVoybDBhSFZpTG1OdmJTOW1jbVZsWm5F  
