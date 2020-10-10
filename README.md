@@ -1,5 +1,5 @@
 # free  
-更新时间 2020-10-11 00:00:03  
+更新时间 2020-10-11 04:00:03  
 免费科学上网,免费翻墙,免费ssr,免费v2ray,免费vmess节点,免费节点,翻墙,蓝灯,谷歌商店  
 所有资源都爬取自网络免费资源，请勿用于非法用途  
 |  工具  | Android  | Win  |  
@@ -15,7 +15,7 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN/SSR客户端图�
 - `https://raw.githubusercontent.com/freefq/free/master/v2`  
 ### 自定义节点订阅  
 为解决githubusercontent被屏蔽订阅无法更新问题，用开源模板搭了个订阅网站，有需要自取：[永久免费订阅](https://bulink.xyz)  
-~~安卓可以考虑下载360旗下Tuber浏览器，速度还行，能上大部分外网网站（不包括黄网，政治内容有过滤）：[点击查看](https://pc.txappnet.com/)~~架不住人民群众汹涌的翻墙需求，已失效  
+~~安卓可以考虑下载360旗下Tuber浏览器，速度还行，能上大部分外网网站（不包括黄网，政治内容有过滤）：~~[点击查看](https://pc.txappnet.com/)架不住人民群众汹涌的翻墙需求，已失效  
 ## SSR  
 ssr://MTA0LjIzNy4xNTQuMjA0OjgwOTc6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOlpVbFhNRVJ1YXpZNU5EVTBaVFp1VTNkMWMzQjJPVVJ0VXpJd01YUlJNRVEvP29iZnNwYXJhbT0mcHJvdG9wYXJhbT0mcmVtYXJrcz01NzZPNVp1OTVZcWc1WWlwNTZhUDViQzg1THFhNWJlZTZMUzU2WWVNNkpLWlRHbHViMlJsNXBXdzVvMnU1TGl0NWItRE1qQTAmZ3JvdXA9WjJsMGFIVmlMbU52YlM5bWNtVmxabkU  
 ssr://MTA0LjIzNy4xNTQuMjA0OjgwOTk6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOlpVbFhNRVJ1YXpZNU5EVTBaVFp1VTNkMWMzQjJPVVJ0VXpJd01YUlJNRVEvP29iZnNwYXJhbT0mcHJvdG9wYXJhbT0mcmVtYXJrcz01NzZPNVp1OTVZcWc1WWlwNTZhUDViQzg1THFhNWJlZTZMUzU2WWVNNkpLWlRHbHViMlJsNXBXdzVvMnU1TGl0NWItRE1qQTAmZ3JvdXA9WjJsMGFIVmlMbU52YlM5bWNtVmxabkU  
