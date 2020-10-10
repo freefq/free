@@ -6,6 +6,8 @@
 |  ----  | ----   | ----  |  
 | [v2ray](#v2ray)  | [v2rayNG](https://github.com/2dust/v2rayNG/releases/download/1.2.12/v2rayNG_1.2.12.apk) | [v2rayN](https://github.com/2dust/v2rayN/releases/download/3.19/v2rayN-Core.zip) |  
 | [shadowsocksR](#SSR)  |[shadowsocksr-android](https://github.com/shadowsocksrr/shadowsocksr-android/releases/download/3.5.4/shadowsocksr-android-3.5.4.apk) | [shadowsocksr-windows](https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases/download/4.7.0/ShadowsocksR-4.7.0-win.7z) |  
+## 安卓用户建议下载360旗下Tuber浏览器，秒杀所有免费节点：[点击查看](https://pc.txappnet.com/)  
+
 ### v2rayN翻墙软件使用教程：[点击查看](https://github.com/freefq/tutorials)  
 ### 节点导入方法  
 CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN/SSR客户端图标，左键点击从剪贴板批量导入URL，即可一键导入所有v2ray/SSR节点  
