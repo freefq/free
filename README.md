@@ -1,7 +1,7 @@
 ## v2ray免费节点不明原因大面积失效，建议先用ssr节点。应急可以试试：[在线代理1](https://js.bulink.xyz/)(谷歌不可用)    [在线代理2](https://www3.www3.workers.dev/)(推荐！谷歌可用)  
 ## [在线代理2-1 https://bu.link1.workers.dev/](https://bu.link1.workers.dev/)(谷歌搜索)  
-## [在线代理2-2 https://bu.link2.workers.dev/](https://bu.link1.workers.dev/)(谷歌搜索)  
-## [在线代理2-3 https://bu.link3.workers.dev/](https://bu.link1.workers.dev/)(谷歌搜索)  
+## [在线代理2-2 https://bu.link2.workers.dev/](https://bu.link2.workers.dev/)(谷歌搜索)  
+## [在线代理2-3 https://bu.link3.workers.dev/](https://bu.link3.workers.dev/)(谷歌搜索)  
 # free  
 更新时间 2020-10-26 16:52:38  
 免费科学上网,免费翻墙,免费ssr,免费v2ray,免费vmess节点,免费节点,翻墙,蓝灯,谷歌商店  
