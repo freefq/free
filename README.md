@@ -1,12 +1,12 @@
-### v2ray/ssr免费节点现在有点少。可以试试在线代理:  
-### [在线代理1](https://js.bulink.xyz/)  
-### [在线代理2-0](https://www3.www3.workers.dev/)  
-### [在线代理2-1 https://bu.link1.workers.dev/](https://bu.link1.workers.dev/)  
-### [在线代理2-2 https://bu.link2.workers.dev/](https://bu.link2.workers.dev/)  
-### [在线代理2-3 https://bu.link3.workers.dev/](https://bu.link3.workers.dev/)  
-### 如流量超限可以尝试其它点  
+### v2ray/ssr免费节点暂时比较少。可以试试在线代理(如流量超限可以尝试其它点):  
+|  实现  | jsproxy  | siteproxy  |  
+|  ----  | ----   | ----  |  
+| 在线代理镜像1 | [https://js.bulink.xyz/](https://js.bulink.xyz/) | [https://www3.www3.workers.dev/](https://www3.www3.workers.dev/) |  
+| 在线代理镜像2 | [https://js.link1.workers.dev/](https://bu.link1.workers.dev/) | [https://bu.link1.workers.dev/](https://bu.link1.workers.dev/) |  
+| 在线代理镜像3 | [https://js.link2.workers.dev/](https://bu.link2.workers.dev/) | [https://bu.link2.workers.dev/](https://bu.link2.workers.dev/) |  
+| 在线代理镜像4 | [https://js.link3.workers.dev/](https://bu.link3.workers.dev/) | [https://bu.link3.workers.dev/](https://bu.link3.workers.dev/) |  
 # free  
-更新时间 2020-10-27 08:59:29  
+更新时间 2020-10-27 09:29:06  
 免费科学上网,免费翻墙,免费ssr,免费v2ray,免费vmess节点,免费节点,翻墙,蓝灯,谷歌商店  
 所有资源都爬取自网络免费资源，请勿用于非法用途  
 |  工具  | Android  | Win  |  
