@@ -1,5 +1,5 @@
 # free  
-更新时间 2020-11-01 20:00:02  
+更新时间 2020-11-02 00:00:02  
 免费科学上网,免费翻墙,免费ssr,免费v2ray,免费vmess节点,免费节点,翻墙,蓝灯,谷歌商店  
 所有资源都爬取自网络免费资源，请勿用于非法用途  
 |  工具  | Android  | Win  |  
@@ -15,13 +15,10 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN/SSR客户端图�
 - `https://raw.githubusercontent.com/freefq/free/master/v2`  
 ### 自定义节点订阅  
 为解决githubusercontent被屏蔽订阅无法更新问题，用开源模板搭了个订阅网站，有需要自取：[永久免费订阅](https://bulink.xyz)  
-### v2ray/ssr免费节点暂时比较少。可以试试在线代理(如流量超限可以尝试其镜像，每日早8点流量重置):  
+### v2ray/ssr免费节点暂时比较少。可以试试在线代理:  
 |  实现  | jsproxy  | siteproxy  |  
 |  ----  | ----   | ----  |  
-| 在线代理镜像1 | [https://js.bulink.xyz/](https://js.bulink.xyz/) | [https://www3.www3.workers.dev/](https://www3.www3.workers.dev/) |  
-| 在线代理镜像2 | [https://js.link1.workers.dev/](https://js.link1.workers.dev/) | [https://bu.link1.workers.dev/](https://bu.link1.workers.dev/) |  
-| 在线代理镜像3 | [https://js.link2.workers.dev/](https://js.link2.workers.dev/) | [https://bu.link2.workers.dev/](https://bu.link2.workers.dev/) |  
-| 在线代理镜像4 | [https://js.link3.workers.dev/](https://js.link3.workers.dev/) | [https://bu.link3.workers.dev/](https://bu.link3.workers.dev/) |  
+| 在线代理入口 | [https://j.bulink.xyz/](https://j.bulink.xyz/) | [https://zx.bulink.xyz/](https://zx.bulink.xyz/) |  
 ## SSR  
 ssr://MTg1LjE3Mi4xMTUuMjQxOjE2MzUyOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnZERabi8_b2Jmc3BhcmFtPSZwcm90b3BhcmFtPSZyZW1hcmtzPTZJdXg1WnU5SURJME1RJmdyb3VwPVoybDBhSFZpTG1OdmJTOW1jbVZsWm5F  
 ssr://MTg4LjExOS42NC45MDoxNjM1MjpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ05tcDAvP29iZnNwYXJhbT0mcHJvdG9wYXJhbT0mcmVtYXJrcz01TC1FNTcyWDVwYXY1cGF3NktXXzVMeXY1WWlwNUxxYVFVUk5RVTdudlpIbnU1dzVNQSZncm91cD1aMmwwYUhWaUxtTnZiUzltY21WbFpuRQ  
@@ -30,15 +27,11 @@ ssr://NDUuMTM1LjEzNC4xMzI6MTYzNTI6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2djalptLz
 ssr://NDUuMTQwLjE2OS4xOTg6MTYzNTI6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2djalptLz9vYmZzcGFyYW09JnByb3RvcGFyYW09JnJlbWFya3M9NUwtRTU3Mlg1cGF2Nkk2cjVwYXY1NmVSU25WemRFaHZjM1F4T1RnJmdyb3VwPVoybDBhSFZpTG1OdmJTOW1jbVZsWm5F  
 ssr://NDUuNjYuMTM0LjE1OToxNjM1MjpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ2REWm4vP29iZnNwYXJhbT0mcHJvdG9wYXJhbT0mcmVtYXJrcz01cGVsNXB5czVMaWM1THFzVFRJME56RTFPUSZncm91cD1aMmwwYUhWaUxtTnZiUzltY21WbFpuRQ  
 ssr://NDUuNjYuMTM0LjI4OjE2MzUyOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnZERabi8_b2Jmc3BhcmFtPSZwcm90b3BhcmFtPSZyZW1hcmtzPTVwZWw1cHlzNUxpYzVMcXNUVEkwTnpJNCZncm91cD1aMmwwYUhWaUxtTnZiUzltY21WbFpuRQ  
-ssr://NDUuNzcuMTgxLjE2NzoxMTM0MjphdXRoX2FlczEyOF9tZDU6YWVzLTI1Ni1jZmI6dGxzMS4yX3RpY2tldF9hdXRoOlpuSmxaUzF6YzNJdWVIbDYvP29iZnNwYXJhbT0mcHJvdG9wYXJhbT0mcmVtYXJrcz01cGVsNXB5czVMaWM1THFzUTJodmIzQmg1cFd3NW8ydTVMaXQ1Yi1ETVRZMyZncm91cD1aMmwwYUhWaUxtTnZiUzltY21WbFpuRQ  
-ssr://NDUuODUuMC4xMDQ6MTYzNTI6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2dkRFpuLz9vYmZzcGFyYW09JnByb3RvcGFyYW09JnJlbWFya3M9NXBlbDVweXM1TGljNUxxc1RUSTBOekV3TkEmZ3JvdXA9WjJsMGFIVmlMbU52YlM5bWNtVmxabkU  
 ssr://NDYuMTcuNDEuMTMzOjE2MzUyOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnY2pabS8_b2Jmc3BhcmFtPSZwcm90b3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdjZaNlI2WjI4NXBhdjVaMm01WmFBNWJHeGFuVnpkR2h2YzNReE16TSZncm91cD1aMmwwYUhWaUxtTnZiUzltY21WbFpuRQ  
 ssr://NjkuMzAuMjAxLjgyOjgwOTc6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOlpVbFhNRVJ1YXpZNU5EVTBaVFp1VTNkMWMzQjJPVVJ0VXpJd01YUlJNRVEvP29iZnNwYXJhbT0mcHJvdG9wYXJhbT0mcmVtYXJrcz01NzZPNVp1OTVhLUc2SXVQNlllTTViZWU1YUNxNkpDbzVwYXY1Wi1PVjJodmJHVlRZV3hsNUxxUzZJR1U1NzJSNklLaDVMdTk1cHlKNlptUTVZV3M1WS00T0RJJmdyb3VwPVoybDBhSFZpTG1OdmJTOW1jbVZsWm5F  
 ssr://OTEuMjA2LjkyLjE2NzoxNjM1MjpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ05tcDAvP29iZnNwYXJhbT0mcHJvdG9wYXJhbT0mcmVtYXJrcz01TC1FNTcyWDVwYXY2S1dfNUx5djVZaXA1THFhU25WemRFaHZjM1F4TmpjJmdyb3VwPVoybDBhSFZpTG1OdmJTOW1jbVZsWm5F  
 ssr://OTEuMjIwLjIwMi4yMTE6MTYzNTI6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2dObWRsLz9vYmZzcGFyYW09JnByb3RvcGFyYW09JnJlbWFya3M9NTc2TzVadTk1WXFnNVlpcDU2YVA1YkM4NUxxYTViZWU1clNiNXAySjU1LTJUVEkwTi1lOWtlZTduREl4TVEmZ3JvdXA9WjJsMGFIVmlMbU52YlM5bWNtVmxabkU  
 ssr://OTEuMjIwLjIwMy41ODoxNjM1MjpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ05tZGwvP29iZnNwYXJhbT0mcHJvdG9wYXJhbT0mcmVtYXJrcz01NzZPNVp1OTVZcWc1WWlwNTZhUDViQzg1THFhNWJlZTVyU2I1cDJKNTUtMlRUSTBOLWU5a2VlN25EVTQmZ3JvdXA9WjJsMGFIVmlMbU52YlM5bWNtVmxabkU  
-ssr://OTEuMjIwLjIwMy4xNDk6MTYzNTI6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2dObWRsLz9vYmZzcGFyYW09JnByb3RvcGFyYW09JnJlbWFya3M9NTc2TzVadTk1WXFnNVlpcDU2YVA1YkM4NUxxYTViZWU1clNiNXAySjU1LTJUVEkwTi1lOWtlZTduREUwT1EmZ3JvdXA9WjJsMGFIVmlMbU52YlM5bWNtVmxabkU  
-ssr://OTEuMjIwLjIwMy4yMDg6MTYzNTI6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2dObWRsLz9vYmZzcGFyYW09JnByb3RvcGFyYW09JnJlbWFya3M9NTc2TzVadTk1WXFnNVlpcDU2YVA1YkM4NUxxYTViZWU1clNiNXAySjU1LTJUVEkwTi1lOWtlZTduREl3T0EmZ3JvdXA9WjJsMGFIVmlMbU52YlM5bWNtVmxabkU  
 ## v2ray  
 vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTY1ZTVcdTY3MmNcdTRlMWNcdTRlYWNDaG9vcGFcdTY1NzBcdTYzNmVcdTRlMmRcdTVmYzMxNTUiLCAiYWRkIjogIjQ1Ljc3LjEzNC4xNTUiLCAicG9ydCI6ICI0NTc1MSIsICJpZCI6ICIzMmZjZGRkOC0zNWNlLTQ2MDgtOWJhNS0yZTY4YzE2ZWFkY2EiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9  
 vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTY1ZTVcdTY3MmNcdTRlMWNcdTRlYWNDaG9vcGFcdTY1NzBcdTYzNmVcdTRlMmRcdTVmYzMxNjciLCAiYWRkIjogIjQ1Ljc3LjE4MS4xNjciLCAicG9ydCI6ICI1Mzk2NiIsICJpZCI6ICI0ODkzZjUzMy0wMmFlLTRjNmItOWY5OC0wN2NmNjMwODNjOTYiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9  
