@@ -1,5 +1,5 @@
 # free  
-更新时间 2020-11-02 08:58:21  
+更新时间 2020-11-02 10:51:49  
 免费科学上网,免费翻墙,免费ssr,免费v2ray,免费vmess节点,免费节点,翻墙,蓝灯,谷歌商店  
 所有资源都爬取自网络免费资源，请勿用于非法用途  
 |  工具  | Android  | Win  |  
@@ -18,7 +18,10 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN/SSR客户端图�
 ### v2ray/ssr免费节点暂时比较少。可以试试在线代理:  
 |  实现  | jsproxy  | siteproxy  |  
 |  ----  | ----   | ----  |  
-| 在线代理入口 | [https://j.bulink.xyz/](https://j.bulink.xyz/) | [https://zx.bulink.xyz/](https://zx.bulink.xyz/) |  
+| 在线代理镜像1 | [https://www.www3.workers.dev/](https://www.www3.workers.dev/) | [https://www3.www3.workers.dev/](https://www3.www3.workers.dev/) |  
+| 在线代理镜像2 | [https://js.link1.workers.dev/](https://js.link1.workers.dev/) | [https://bu.link1.workers.dev/](https://bu.link1.workers.dev/) |  
+| 在线代理镜像3 | [https://js.link2.workers.dev/](https://js.link2.workers.dev/) | [https://bu.link2.workers.dev/](https://bu.link2.workers.dev/) |  
+| 在线代理镜像4 | [https://js.link3.workers.dev/](https://js.link3.workers.dev/) | [https://bu.link3.workers.dev/](https://bu.link3.workers.dev/) |  
 ## SSR  
 ssr://MTg1LjE3Mi4xMTUuMjQxOjEyNTU2Om9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnTm5keC8_b2Jmc3BhcmFtPSZwcm90b3BhcmFtPSZyZW1hcmtzPTZJdXg1WnU5SURJME1RJmdyb3VwPVoybDBhSFZpTG1OdmJTOW1jbVZsWm5F  
 ssr://MTg4LjExOS42NC45MDoxMjU1NjpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ05tdHIvP29iZnNwYXJhbT0mcHJvdG9wYXJhbT0mcmVtYXJrcz01TC1FNTcyWDVwYXY1cGF3NktXXzVMeXY1WWlwNUxxYVFVUk5RVTdudlpIbnU1dzVNQSZncm91cD1aMmwwYUhWaUxtTnZiUzltY21WbFpuRQ  
