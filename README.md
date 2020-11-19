@@ -1,5 +1,5 @@
 # free  
-更新时间 2020-11-19 04:00:02  
+更新时间 2020-11-19 08:00:02  
 免费科学上网,免费翻墙,免费ssr,免费v2ray,免费vmess节点,免费节点,翻墙,蓝灯,谷歌商店  
 所有资源都爬取自网络免费资源，请勿用于非法用途  
 |  工具  | Android  | Win  |  
@@ -81,7 +81,6 @@ ss://YWVzLTI1Ni1nY206bjh3NFN0bmJWRDlkbVhZbjRBanQ4N0VB@66.115.147.94:31572#github
 ss://YWVzLTI1Ni1nY206bjh3NFN0bmJWRDlkbVhZbjRBanQ4N0VB@89.164.99.111:31572#github.com/freefq%20-%20%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%20111  
 ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw@103.98.75.71:40093#github.com/freefq%20-%20%E4%BA%9A%E5%A4%AA%E5%9C%B0%E5%8C%BA%2071  
 ss://YWVzLTI1Ni1nY206eHBRd3lWNFc1RmRBNk5NQU5KSng3M1VT@2.58.241.43:38033#github.com/freefq%20-%20%E4%B9%8C%E5%85%8B%E5%85%B0%2043  
-trojan://35f613d7-6c93-43c4-96bc-c32f0a1e226e@fuckxiaofenhong.ml:443#github.com/freefq%20-%20%E6%97%A5%E6%9C%AC%E4%B8%9C%E4%BA%ACChoopa%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83239  
 trojan://3785af03-328f-4c87-bf82-c5fa609f5a90@fuckxiaofenhong.tk:443#github.com/freefq%20-%20%E6%97%A5%E6%9C%AC%E4%B8%9C%E4%BA%ACChoopa%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%8394  
 trojan://7efe8b11-58bc-4597-a269-87691a6f1806@trotro.ml:443#github.com/freefq%20-%20%E6%97%A5%E6%9C%AC%E4%B8%9C%E4%BA%ACChoopa%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83162  
 trojan://9e97f9c1-0b77-4fca-a457-e97f34c20208@fuckxiaofenhong.cf:443#github.com/freefq%20-%20%E6%97%A5%E6%9C%AC%E4%B8%9C%E4%BA%ACChoopa%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%8366  
