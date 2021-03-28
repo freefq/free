@@ -1,5 +1,5 @@
 # free  
-更新时间 2021-03-28 12:00  
+更新时间 2021-03-28 16:00  
 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/ssr/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子  
 所有资源都爬取自网络免费资源，请勿用于非法用途  
 节点订阅网站bulink.xyz订阅地址已更新，启用新订阅域名bulink.me，大幅优化订阅请求响应速度，欢迎使用。  
@@ -42,7 +42,7 @@ ss://YWVzLTI1Ni1nY206YVlOZUtETXpZUVl3NEtiVWJKQThXc3px@138.199.9.202:31944#github
 ss://YWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhE@176.227.241.31:39772#github.com/freefq%20-%20%E8%8B%B1%E5%9B%BD%20%208  
 vmess://eyJhZGQiOiAiMTQxLjEwMS4xMTUuMyIsICJhaWQiOiAiMSIsICJob3N0IjogImZyZWUuZnJsaS54eXoiLCAiaWQiOiAiNGNkYjAxNmYtZjE0ZS0zMGIzLTk3ZDYtNDUzYzc0MWE1YzgwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi95NDc1IiwgInBvcnQiOiAiNDQzIiwgInBzIjogImdpdGh1Yi5jb20vZnJlZWZxIC0gXHU3ZjhlXHU1NmZkQ2xvdWRGbGFyZVx1ODI4Mlx1NzBiOSA5IiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9  
 ss://YWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhE@104.244.210.139:39772#github.com/freefq%20-%20%E5%8C%97%E7%BE%8E%E5%9C%B0%E5%8C%BA%20%2010  
-trojan://52147717-3969-4dc9-8c18-883c8b3becfe@trojan.internet-cloudflare-accelerate.tk:443#github.com/freefq%20-%20%E7%BE%8E%E5%9B%BDBellSouth%E6%8B%A8%E5%8F%B7%E6%9C%8D%E5%8A%A1%2011  
+trojan://52147717-3969-4dc9-8c18-883c8b3becfe@trojan.internet-cloudflare-accelerate.tk:443#github.com/freefq%20-%20%E5%8D%B0%E5%BA%A6%20%2011  
 trojan://W3ADSjTHjxN3Nt28WC@pro-us1-1.sstr-api.xyz:443#github.com/freefq%20-%20%E7%BE%8E%E5%9B%BD%20%2012  
 trojan://W3ADSjTHjxN3Nt28WC@pro-us1-4.sstr-api.xyz:443#github.com/freefq%20-%20%E7%BE%8E%E5%9B%BD%20%2013  
 trojan://W3ADSjTHjxN3Nt28WC@pro-us1-3.sstr-api.xyz:443#github.com/freefq%20-%20%E7%BE%8E%E5%9B%BD%20%2014  
