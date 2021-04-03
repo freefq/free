@@ -1,5 +1,5 @@
 # free  
-更新时间 2021-04-03 19:26  
+更新时间 2021-04-03 20:00  
 普天同庆 出口带宽真扩容了！！！  
 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/ssr/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子  
 所有资源都爬取自网络免费资源，请勿用于非法用途  
@@ -52,4 +52,4 @@ vmess://eyJhZGQiOiAiYXV0by5mcmVldjIudG9wIiwgImZpbGUiOiAiIiwgImlkIjogImZiYjExZDFm
 trojan://ssrsub@t06.ssrsub.one:443#github.com/freefq%20-%20%E4%BF%84%E7%BD%97%E6%96%AF%E6%96%B0%E8%A5%BF%E4%BC%AF%E5%88%A9%E4%BA%9Ajusthost%2022  
 trojan://ssrsub@t20.ssrsub.one:443#github.com/freefq%20-%20%E4%BF%84%E7%BD%97%E6%96%AF%20%2023  
 vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTUyYTBcdTYyZmZcdTU5MjcgIDI0IiwgImFkZCI6ICJ2Mi0wNC5zc3JzdWIub25lIiwgInBvcnQiOiAiMTUzIiwgImlkIjogIjllOWEyN2JmLTU1MGMtM2NjNC1jNjZiLTliMWIzNmE2NzZiYyIsICJhaWQiOiAiNjQiLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIm40NmhtNTI3NzMubGFvd2FueGlhbmcuY29tIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiJ9  
-trojan://52147717-3969-4dc9-8c18-883c8b3becfe@trojan.internet-cloudflare-accelerate.tk:443#github.com/freefq%20-%20%E7%BE%8E%E5%9B%BDBellSouth%E6%8B%A8%E5%8F%B7%E6%9C%8D%E5%8A%A1%2025  
+trojan://52147717-3969-4dc9-8c18-883c8b3becfe@trojan.internet-cloudflare-accelerate.tk:443#github.com/freefq%20-%20%E6%97%A5%E6%9C%AC%E4%B8%9C%E4%BA%AC%E9%83%BDAmazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%2025  
