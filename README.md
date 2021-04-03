@@ -1,5 +1,5 @@
 # free  
-更新时间 2021-04-03 08:00  
+更新时间 2021-04-03 12:00  
 普天同庆 出口带宽真扩容了！！！  
 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/ssr/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子  
 所有资源都爬取自网络免费资源，请勿用于非法用途  
@@ -33,7 +33,7 @@ ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@143.244.57.91:33992#github
 vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTdmOGVcdTU2ZmRDbG91ZEZsYXJlXHU1MTZjXHU1M2Y4Q0ROXHU4MjgyXHU3MGI5IDciLCAiYWRkIjogIjEwNC4xOC43LjEzOCIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICIzYjVlMjU4ZS04YzVlLTQ1ZDMtYjdkMi0wMmM4ZjVmYzBiYjIiLCAiYWlkIjogIjY0IiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJjZG5kZS5pcnRleXoudG9kYXkiLCAicGF0aCI6ICIvIiwgInRscyI6ICJ0bHMiLCAic25pIjogIiJ9  
 vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTdmOGVcdTU2ZmRDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IDgiLCAiYWRkIjogIjE3Mi42Ny4xODYuMjA0IiwgInBvcnQiOiAiNDQzIiwgImlkIjogImRiNWQxYWEzLTkwOGItNDRkMS1iZTBhLTRlNmE4ZDRlNGNkYSIsICJhaWQiOiAiNjQiLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImMtcnUyLm9veGMuY2MiLCAicGF0aCI6ICIvamoiLCAidGxzIjogInRscyIsICJzbmkiOiAiIn0=  
 vmess://eyJhZGQiOiAiYXV0by5mcmVldjIudG9wIiwgImZpbGUiOiAiIiwgImlkIjogIjBmN2Q1OWNhLTE4ZmMtNGJiYy05ZjdkLTcwMmQ0YWQ5OTRiOCIsICJuZXQiOiAidGNwIiwgImhvc3QiOiAiIiwgInBvcnQiOiAiMTA5NjUiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTY1ZTVcdTY3MmNcdTRlMWNcdTRlYWNMaW5vZGVcdTY1NzBcdTYzNmVcdTRlMmRcdTVmYzMgOSIsICJ0bHMiOiAiIiwgInYiOiAyLCAiYWlkIjogMSwgInR5cGUiOiAibm9uZSJ9  
-trojan://52147717-3969-4dc9-8c18-883c8b3becfe@trojan.internet-cloudflare-accelerate.tk:443#github.com/freefq%20-%20%E7%BE%8E%E5%9B%BDBellSouth%E6%8B%A8%E5%8F%B7%E6%9C%8D%E5%8A%A1%2010  
+trojan://52147717-3969-4dc9-8c18-883c8b3becfe@trojan.internet-cloudflare-accelerate.tk:443#github.com/freefq%20-%20%E5%8D%B0%E5%BA%A6%E9%A9%AC%E5%93%88%E6%8B%89%E6%96%BD%E7%89%B9%E6%8B%89%E9%82%A6%E5%AD%9F%E4%B9%B0Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%2010  
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzeUNpSmwzbmI4T0Q@ss.us.sshmax.net:57478#github.com/freefq%20-%20%E7%BE%8E%E5%9B%BD%E5%BC%97%E5%90%89%E5%B0%BC%E4%BA%9A%E5%B7%9E%E6%96%87%E7%89%B9%E5%B1%B1%E5%86%9C%E5%9C%BAOVH%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%2011  
 vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTUyYTBcdTYyZmZcdTU5MjcgIDEyIiwgImFkZCI6ICJ2Mi0wNS5zc3JzdWIub25lIiwgInBvcnQiOiAiMTUzIiwgImlkIjogIjllOWEyN2JmLTU1MGMtM2NjNC1jNjZiLTliMWIzNmE2NzZiYyIsICJhaWQiOiAiNjQiLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIm40NmhtNTI3NzMubGFvd2FueGlhbmcuY29tIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiJ9  
 trojan://ssrsub@t03.ssrsub.one:443#github.com/freefq%20-%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%AE%89%E5%A4%A7%E7%95%A5%E7%9C%81%E5%9F%BA%E5%A5%87%E7%BA%B3DataCity%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%2013  
