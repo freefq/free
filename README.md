@@ -1,5 +1,5 @@
 # free  
-更新时间 2021-04-04 04:00  
+更新时间 2021-04-04 08:00  
 普天同庆 出口带宽真扩容了！！！（中国电信出口带宽提升1.2Tbps。2018年国际出口总带宽8.53Tbps，电信4.33Tbps）  
 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/ssr/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子  
 所有资源都爬取自网络免费资源，请勿用于非法用途  
@@ -44,7 +44,7 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTUzZjBcdTZlN2VcdTc3
 vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTZlNTZcdTUzNTdcdTc3MDFcdTgwNTRcdTkwMWEgMTYiLCAiYWRkIjogImpwYzUyNjkuYXp6aWNvLnNwYWNlIiwgInBvcnQiOiAiMTE1NjIiLCAiaWQiOiAiOGJkZDI5MjUtNzIxOC0zMTRiLTk4N2EtZGNiYjQ0ZDA5ODUyIiwgImFpZCI6ICIyIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJqcGM1MjY5LmF6emljby5wdyIsICJwYXRoIjogIi92aWRlbyIsICJ0bHMiOiAiIn0=  
 vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTVlN2ZcdTRlMWNcdTc3MDFcdTRlMmRcdTVjNzFcdTVlMDJcdTc5ZmJcdTUyYTggMTciLCAiYWRkIjogInR3YTMxMTYuYXp6aWNvLnNwYWNlIiwgInBvcnQiOiAiMTE1NjYiLCAiaWQiOiAiOGJkZDI5MjUtNzIxOC0zMTRiLTk4N2EtZGNiYjQ0ZDA5ODUyIiwgImFpZCI6ICIyIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJ0d2EzMTE2LmF6emljby5wdyIsICJwYXRoIjogIi92aWRlbyIsICJ0bHMiOiAiIn0=  
 vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTVlN2ZcdTRlMWNcdTc3MDFcdTRlMmRcdTVjNzFcdTVlMDJcdTc5ZmJcdTUyYTggMTgiLCAiYWRkIjogInR3YTMxMTYuYXp6aWNvLnNwYWNlIiwgInBvcnQiOiAiMTE1NjYiLCAiaWQiOiAiMTVhNzZjNzUtZGE4YS0zZGUyLWJkYzItM2JiZDM4OWQ3ZWUxIiwgImFpZCI6ICIyIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJ0d2EzMTE2LmF6emljby5wdyIsICJwYXRoIjogIi92aWRlbyIsICJ0bHMiOiAiIn0=  
-trojan://52147717-3969-4dc9-8c18-883c8b3becfe@trojan.internet-cloudflare-accelerate.tk:443#github.com/freefq%20-%20%E5%8D%B0%E5%BA%A6%E9%A9%AC%E5%93%88%E6%8B%89%E6%96%BD%E7%89%B9%E6%8B%89%E9%82%A6%E5%AD%9F%E4%B9%B0Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%2019  
+trojan://52147717-3969-4dc9-8c18-883c8b3becfe@trojan.internet-cloudflare-accelerate.tk:443#github.com/freefq%20-%20%E7%BE%8E%E5%9B%BDBellSouth%E6%8B%A8%E5%8F%B7%E6%9C%8D%E5%8A%A1%2019  
 vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTVlN2ZcdTRlMWNcdTc3MDFcdTRlMmRcdTVjNzFcdTVlMDJcdTc5ZmJcdTUyYTggMjAiLCAiYWRkIjogInNnMTMyMi5henppY28uc3BhY2UiLCAicG9ydCI6ICIxMTU1OCIsICJpZCI6ICI4YmRkMjkyNS03MjE4LTMxNGItOTg3YS1kY2JiNDRkMDk4NTIiLCAiYWlkIjogIjIiLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogInNnMTMyMi5henppY28ucHciLCAicGF0aCI6ICIvdmlkZW8iLCAidGxzIjogIiJ9  
 trojan://MhPG7g9x2Etb4Hspsb@fm2-4.sstr-api.xyz:443#github.com/freefq%20-%20%E7%BE%8E%E5%9B%BD%20%2021  
 trojan://MhPG7g9x2Etb4Hspsb@fm2-2.sstr-api.xyz:443#github.com/freefq%20-%20%E7%BE%8E%E5%9B%BD%20%2022  
