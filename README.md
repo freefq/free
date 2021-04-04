@@ -1,5 +1,5 @@
 # free  
-更新时间 2021-04-04 20:00  
+更新时间 2021-04-05 00:00  
 普天同庆 出口带宽真扩容了！！！（中国电信出口带宽提升1.2Tbps。2018年国际出口总带宽8.53Tbps，电信4.33Tbps）  
 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/ssr/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子  
 所有资源都爬取自网络免费资源，请勿用于非法用途  
@@ -38,7 +38,7 @@ vmess://eyJhZGQiOiAiYXV0by5mcmVldjIudG9wIiwgImZpbGUiOiAiIiwgImlkIjogImQ3MzQ4ZTEz
 trojan://MhPG7g9x2Etb4Hspsb@fm2-2.sstr-api.xyz:443#github.com/freefq%20-%20%E7%BE%8E%E5%9B%BD%20%2011  
 vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTVlN2ZcdTRlMWNcdTc3MDFcdTRlMmRcdTVjNzFcdTVlMDJcdTc5ZmJcdTUyYTggMTIiLCAiYWRkIjogInR3YTMxMTYuYXp6aWNvLnNwYWNlIiwgInBvcnQiOiAiMTE1NjYiLCAiaWQiOiAiOGJkZDI5MjUtNzIxOC0zMTRiLTk4N2EtZGNiYjQ0ZDA5ODUyIiwgImFpZCI6ICIyIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJ0d2EzMTE2LmF6emljby5wdyIsICJwYXRoIjogIi92aWRlbyIsICJ0bHMiOiAiIn0=  
 trojan://MhPG7g9x2Etb4Hspsb@fm2-1.sstr-api.xyz:443#github.com/freefq%20-%20%E7%BE%8E%E5%9B%BD%20%2013  
-trojan://52147717-3969-4dc9-8c18-883c8b3becfe@trojan.internet-cloudflare-accelerate.tk:443#github.com/freefq%20-%20%E6%97%A5%E6%9C%AC%E4%B8%9C%E4%BA%ACAmazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%2014  
+trojan://52147717-3969-4dc9-8c18-883c8b3becfe@trojan.internet-cloudflare-accelerate.tk:443#github.com/freefq%20-%20%E5%8D%B0%E5%BA%A6%20%2014  
 trojan://MhPG7g9x2Etb4Hspsb@fm2-3.sstr-api.xyz:443#github.com/freefq%20-%20%E7%BE%8E%E5%9B%BD%20%2015  
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzeUNpSmwzbmI4T0Q@ss.us.sshmax.net:57478#github.com/freefq%20-%20%E7%BE%8E%E5%9B%BD%E5%BC%97%E5%90%89%E5%B0%BC%E4%BA%9A%E5%B7%9E%E6%96%87%E7%89%B9%E5%B1%B1%E5%86%9C%E5%9C%BAOVH%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%2016  
 vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTUyYTBcdTYyZmZcdTU5MjdcdTViODlcdTU5MjdcdTc1NjVcdTc3MDFcdTU3ZmFcdTU5NDdcdTdlYjNEYXRhQ2l0eVx1NjU3MFx1NjM2ZVx1NGUyZFx1NWZjMyAxNyIsICJhZGQiOiAidjItMDMuc3Nyc3ViLm9uZSIsICJwb3J0IjogIjE1MyIsICJpZCI6ICI5ZTlhMjdiZi01NTBjLTNjYzQtYzY2Yi05YjFiMzZhNjc2YmMiLCAiYWlkIjogIjY0IiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJuNDZobTUyNzczLmxhb3dhbnhpYW5nLmNvbSIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==  
