@@ -1,5 +1,5 @@
 # free  
-更新时间 2021-04-05 20:00  
+更新时间 2021-04-06 00:00  
 普天同庆 出口带宽真扩容了！！！（中国电信出口带宽提升1.2Tbps。2018年国际出口总带宽8.53Tbps，电信4.33Tbps）  
 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/ssr/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子  
 所有资源都爬取自网络免费资源，请勿用于非法用途  
@@ -49,7 +49,7 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTY1ZTVcdTY3MmNcdTRl
 vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTUzZjBcdTZlN2VcdTc3MDFcdTUzZjBcdTUzMTdcdTVlMDJcdTRlMmRcdTUzNGVcdTc1MzVcdTRmZTEgMjAiLCAiYWRkIjogInR3LmYwMS5wYW9wYW9jbG91ZC5jeW91IiwgInBvcnQiOiAiMzMwNiIsICJpZCI6ICIxNjY5MGFkMy1iMjNjLTNkNGQtYjRhMC0zNzkwZTU4ZjliZTEiLCAiYWlkIjogIjIiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==  
 vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTY1ZTVcdTY3MmNcdTRlMWNcdTRlYWNcdTkwZmRcdTRlOWFcdTlhNmNcdTkwMGEoQW1hem9uKVx1NTE2Y1x1NTNmOFx1NjU3MFx1NjM2ZVx1NGUyZFx1NWZjMyAyMSIsICJhZGQiOiAiMzY4LnZwbi00Lnh5eiIsICJwb3J0IjogIjgwIiwgImlkIjogIjg1ZDgzYWRlLWYzN2EtM2FmZC05YTFiLTg0YjA0ZjJhNjU4OSIsICJhaWQiOiAiMiIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiZ2l0aHViLmNvbSIsICJwYXRoIjogIi92MnJheSIsICJ0bHMiOiAiIn0=  
 vmess://eyJhZGQiOiAiYWdhbHMwNS52MnJheWEueHl6IiwgImFpZCI6ICIyIiwgImhvc3QiOiAiZ2l0aHViLmNvbSIsICJpZCI6ICI4NWQ4M2FkZS1mMzdhLTNhZmQtOWExYi04NGIwNGYyYTY1ODkiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3YycmF5IiwgInBvcnQiOiAiODAiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTk5OTlcdTZlMmZBbWF6b25cdTY1NzBcdTYzNmVcdTRlMmRcdTVmYzMgMjIiLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==  
-trojan://52147717-3969-4dc9-8c18-883c8b3becfe@trojan.internet-cloudflare-accelerate.tk:443#github.com/freefq%20-%20%E7%BE%8E%E5%9B%BDBellSouth%E6%8B%A8%E5%8F%B7%E6%9C%8D%E5%8A%A1%2023  
+trojan://52147717-3969-4dc9-8c18-883c8b3becfe@trojan.internet-cloudflare-accelerate.tk:443#github.com/freefq%20-%20%E6%97%A5%E6%9C%AC%E4%B8%9C%E4%BA%ACAmazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%2023  
 trojan://MhPG7g9x2Etb4Hspsb@fm2-2.sstr-api.xyz:443#github.com/freefq%20-%20%E7%BE%8E%E5%9B%BD%20%2024  
 trojan://MhPG7g9x2Etb4Hspsb@fm2-1.sstr-api.xyz:443#github.com/freefq%20-%20%E7%BE%8E%E5%9B%BD%20%2025  
 vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTdmOGVcdTU2ZmRDbG91ZEZsYXJlXHU1MTZjXHU1M2Y4Q0ROXHU4MjgyXHU3MGI5IDI2IiwgImFkZCI6ICJkb21haW4wOC5tcWNqdWMubWwiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAiZWRlYzNkMDUtMGEzYS04MmJjLWMwY2YtOThkZjZkYjhjZDAzIiwgImFpZCI6ICIxIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJ0MTQuc3Nyc3ViLm9uZSIsICJwYXRoIjogIi9ibXVqYnp6eWtrdGtiZXB4a2lxc2F6aGthdmxqZWJ4amNrY2x2dmFqdndzIiwgInRscyI6ICJ0bHMiLCAic25pIjogIiJ9  
