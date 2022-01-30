@@ -1,4 +1,4 @@
-更新时间 2022-01-30 20:00  
+更新时间 2022-01-30 20:43  
 所有免费节点都爬取自网络，请勿用于非法用途  
 |  工具  | Android  | Windows  | iOS  |  
 |  ----  | ----   | ----  |----  |  
@@ -10,6 +10,7 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标�
 - `https://raw.fastgit.org/freefq/free/master/v2`  
 ### 自建节点订阅  
 [bulink.xyz](https://bulink.xyz)注册（要翻墙）除可订阅本页免费节点，还有每月5G自建节点免费流量，不用打卡签到长期有效，欢迎体验  
+[burstlinker.com](https://burstlinker.com)新开bulink反代站加速世界，不用翻墙注册  
 ## v2ray  
 ```  
 vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTUzZjBcdTZlN2VcdTc3MDFcdTRlMmRcdTUzNGVcdTc1MzVcdTRmZTEoSGlOZXQpXHU2NTcwXHU2MzZlXHU0ZTJkXHU1ZmMzIDEiLCAiYWRkIjogInR3MDEubGlseWNvLmNjIiwgInBvcnQiOiAxNDg3NCwgImlkIjogIjJjMGY2ZWRiLTc5MWYtNGE0NS1lNmI4LWRiYTU3YTg3NmZkMCIsICJhaWQiOiAwLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIm5vbmUifQ==  
