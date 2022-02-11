@@ -18,8 +18,11 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN/SSR客户端图�
 为解决githubusercontent被屏蔽订阅无法更新问题，用开源模板搭了个订阅网站，有需要自取：[永久免费订阅](https://bulink.xyz)  
 ###### 除了免费节点，还可试试在线代理：[https://j.bulink.xyz/](https://j.bulink.xyz/)  
 ## SSR  
+```
 ssr://ODkuMTYzLjIyNC4xNDI6MjUwMTY6b3JpZ2luOnJjNDpwbGFpbjpaRzl1WjNSaGFYZGhibWN1WTI5dElERXlNMkZpWXcvP29iZnNwYXJhbT0mcHJvdG9wYXJhbT0mcmVtYXJrcz01YjYzNVp1OUlDQXgmZ3JvdXA9WjJsMGFIVmlMbU52YlM5bWNtVmxabkU  
 ssr://MTczLjAuNTUuNjc6Mzc4MDE6b3JpZ2luOnJjNDpwbGFpbjpaRzl1WjNSaGFYZGhibWN1WTI5dElERXlNMkZpWXcvP29iZnNwYXJhbT0mcHJvdG9wYXJhbT0mcmVtYXJrcz01NzZPNVp1OTVhLUc2SXVQNlllTTViZWU1YUNxNkpDbzVwYXY1Wi1PVm1seWNIVno1NzJSNTd1YzVZV3M1WS00SURJJmdyb3VwPVoybDBhSFZpTG1OdmJTOW1jbVZsWm5F  
+```
+
 ## v2ray
 ```
 vmess://eyJhZGQiOiAiNDcuMjQyLjE3LjExNSIsICJhaWQiOiAiMSIsICJob3N0IjogImFoay1ub2RlLjMzNjZ0ZXN0LmNvbSIsICJpZCI6ICJhOTA1OTdjMS1iYWIzLTQyMTctYWQ2Zi0wODM4Njc1Yzg2MzMiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3JheSIsICJwb3J0IjogIjEzNzIzIiwgInBzIjogImdpdGh1Yi5jb20vZnJlZWZxIC0gXHU5OTk5XHU2ZTJmXHU5NjNmXHU5MWNjXHU0ZTkxIDEiLCAidGxzIjogInRscyIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=  
