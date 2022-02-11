@@ -1,4 +1,4 @@
-name: auto_fee
+name: auto_feev
 
 on:
   workflow_dispatch:
