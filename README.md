@@ -13,13 +13,10 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN/SSR客户端图�
 
 ### 节点更新订阅  
 - `https://raw.fastgit.org/freefq/free/master/v2`  
-- 
 ### SSR节点订阅  
 - `https://cdn.jsdelivr.net/gh/freefq/free/ssr`  
-- 
 ### v2ray(ss/trojan)节点订阅  
 - `https://cdn.jsdelivr.net/gh/freefq/free/v2`  
-- 
 ### 自定义节点订阅  
 为解决githubusercontent被屏蔽订阅无法更新问题，用开源模板搭了个订阅网站，有需要自取：[永久免费订阅](https://bulink.xyz)  
 ###### 除了免费节点，还可试试在线代理：[https://j.bulink.xyz/](https://j.bulink.xyz/)  
