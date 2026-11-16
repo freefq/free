@@ -1,3 +1,15 @@
+## Windows 桌面悬浮宠物
+
+`desktop-pet` 是一个独立的 Windows 桌面小应用，不影响下方的节点订阅内容。使用 Windows 自带的 Windows PowerShell 5.1 和 .NET Framework，无需安装 .NET SDK 或第三方依赖。
+
+在仓库目录打开 PowerShell，运行：
+
+```powershell
+powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\desktop-pet\Run-Pet.ps1
+```
+
+宠物会以透明、置顶的小橘形象出现在桌面右下角。拖动窗口即可移动；点击宠物或底部的“摸摸”“玩耍”按钮会触发动作、表情和气泡反馈；点击“置顶”可开关窗口置顶；点击右上角的“×”或按 `Esc` 退出。命令仅对本次启动绕过 PowerShell 脚本执行策略，不会更改系统设置。
+
 更新时间 2024-02-07 04:00  
 所有免费节点都爬取自网络，请勿用于非法用途  
 |  工具  | Android  | Windows  |  
